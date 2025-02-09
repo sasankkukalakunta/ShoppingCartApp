@@ -12,8 +12,7 @@ Dynamic UI:
 Loading indicators while fetching images.
 Error placeholders for failed image loads.
 Smooth layout with reusable components.
-🛠️ Technologies Used
-
+🛠️ Technologies Used:
 SwiftUI: For building the user interface.
 MVVM Architecture: For clean separation of concerns.
 AsyncImage: For loading images from URLs.
