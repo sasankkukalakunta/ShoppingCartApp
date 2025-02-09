@@ -15,7 +15,10 @@ Error placeholders for failed image loads.
 Smooth layout with reusable components.
 
 🛠️ Technologies Used:
+
 SwiftUI: For building the user interface.
 MVVM Architecture: For clean separation of concerns.
+
 AsyncImage: For loading images from URLs.
+
 UserDefaults: To persist cart data between app launches.
