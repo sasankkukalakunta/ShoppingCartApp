@@ -22,5 +22,7 @@ MVVM Architecture: For clean separation of concerns.
 AsyncImage: For loading images from URLs.
 
 UserDefaults: To persist cart data between app launches.
-
+  
+  <img src="https://github.com/sasankkukalakunta/ShoppingCartApp/blob/main/HomeScreen.png" width="200">
   <img src="https://github.com/sasankkukalakunta/ShoppingCartApp/blob/main/Addmenu.png" width="200">
+  <img src="https://github.com/sasankkukalakunta/ShoppingCartApp/blob/main/RemoveCart.png" width="200">
